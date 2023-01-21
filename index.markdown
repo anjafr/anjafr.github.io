@@ -2,7 +2,6 @@
 layout: default
 ---
 
-<p style="text-align: center;">
 
 [GitHub](https://github.com/anjafr)
 
@@ -11,4 +10,3 @@ layout: default
 [Medium](https://medium.com/@anjafrhb)
 
 [Instagram](https://www.instagram.com/againstallknots/)
-</p>
