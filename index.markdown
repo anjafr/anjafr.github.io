@@ -10,6 +10,3 @@ layout: default
 🧐 [Medium](https://medium.com/@anjafrhb)
 
 📸 [Instagram](https://www.instagram.com/againstallknots/)
-
-
-![against_all_knots_logo](logo.png)
