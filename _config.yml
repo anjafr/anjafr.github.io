@@ -18,20 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: against all knots
+title:   against all knots
 logo: /assets/img/logo.png
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Proper page coming soon!
-  Knitting patterns coming soon!
-  In the meantime, find me some other place:
+email: anjafrhb@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: anjafr.github.io
 url: "https://anjafr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  anjafr
 
 # Build settings
-remote_theme: remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-feed
   - jekyll-remote-theme

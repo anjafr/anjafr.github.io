@@ -1,7 +1,13 @@
 ---
 layout: default
 ---
+__Proper page coming soon!__
 
+
+__Knitting patterns coming soon!__
+
+
+__In the meantime, find me some other place:__
 
 👩🏻‍💻 [GitHub](https://github.com/anjafr)
 
